@@ -4,4 +4,10 @@ div {
 }
 .list {
    background-color: burlywood;
+   width: 400px;
+   
+}
+li {
+   list-style: none;
+   text-align: center;
 }
