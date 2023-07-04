@@ -5,6 +5,7 @@ div {
 .list {
    background-color: burlywood;
    width: 400px;
+   padding: 10px 20px;
    
 }
 li {
